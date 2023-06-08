@@ -122,7 +122,7 @@ function HomePage() {
                                         </Col>
                                         <Col md={4}>
                                             <Card className="mb-4 h-100">
-                                                <Card.Img variant="top" style={{ height: '245px' }} src="https://images.unsplash.com/photo-1463736932348-4915535cf6f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcGFzc2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Values" />
+                                                <Card.Img variant="top" style={{ height: '300px' }} src="https://images.unsplash.com/photo-1463736932348-4915535cf6f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcGFzc2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Values" />
                                                 <Card.Body>
                                                     <Card.Title className="font-weight-bold text-center">Values</Card.Title>
                                                     <ul>
