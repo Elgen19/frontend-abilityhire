@@ -34,7 +34,7 @@ function Register() {
       }
 
       try {
-        const response = await axios.post('http://localhost:8080/users/register', formData);
+        const response = await axios.post('https://abilityhire-backend.onrender.com/users/register', formData);
         console.log(response.data);
         setSuccessMessage('Registration successful');
         setErrorMessage('');
